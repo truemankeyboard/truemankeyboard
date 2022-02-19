@@ -3,10 +3,10 @@
 
 Mechanical keyboard enthusiast and artisan cable maker from California
 
-##### Currently Owned Keyboards
+#### Currently Owned Keyboards
 |Keyboard|Switches|Keycaps|
 |--------|--------|-------|
-|Cajal|Zkyos|ePBT Kuro Shiro|
+|Cajal|Zykos|ePBT Kuro Shiro|
 |Jane v2|Alpacas|JTK Night Sakura|
 |Adelie|Koala|GMK Darling|
 |Jelly Epoch|Boba U4T|GMK Noel|
