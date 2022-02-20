@@ -3,7 +3,7 @@
 
 I'm a mechanical keyboard enthusiast from California
 
-* 🌱 I'm learning more about keyboard design 
+* 🌱 I'm learning more about keyboard design and embedded rust
 * 📅 Hoping to run a keyboard group buy in Q3 2022
 * 📫 I can be contacted through Discord at **Trueman#0998**
 * 💬 Hit me up if you want an artisan cable made
