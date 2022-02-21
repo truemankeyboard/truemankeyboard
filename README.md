@@ -15,4 +15,4 @@ I'm a mechanical keyboard enthusiast from California
 |Jane v2|Alpacas|JTK Night Sakura|
 |Adelie|Koala|GMK Darling|
 |Jelly Epoch|Boba U4T|GMK Noel|
-|F1-8x|GMK Ink Black|GMK Frost Witch|
+|F1-8x|Gateron Ink Black|GMK Frost Witch|
